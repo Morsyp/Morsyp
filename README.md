@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morsyp
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Java
 <!--- 📫 How to reach me ...
 --->
 <!---
